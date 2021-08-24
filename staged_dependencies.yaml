@@ -1,0 +1,11 @@
+---
+upstream_repos:
+  openpharma/stageddeps.water:
+    repo: openpharma/stageddeps.water
+    host: https://github.com
+
+downstream_repos:
+
+current_repo:
+  repo: openpharma/stageddeps.garden
+  host: https://github.com
